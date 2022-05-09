@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeviathanEngine", "LeviathanEngine\LeviathanEngine.csproj", "{5B7CA66A-0B25-45B5-B86A-A6B458CD9702}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeviathanEngineTests", "LeviathanEngineTests\LeviathanEngineTests.csproj", "{EF3DA1F3-D6F3-4C57-B294-988949E0A8FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B7CA66A-0B25-45B5-B86A-A6B458CD9702}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B7CA66A-0B25-45B5-B86A-A6B458CD9702}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B7CA66A-0B25-45B5-B86A-A6B458CD9702}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B7CA66A-0B25-45B5-B86A-A6B458CD9702}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF3DA1F3-D6F3-4C57-B294-988949E0A8FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF3DA1F3-D6F3-4C57-B294-988949E0A8FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF3DA1F3-D6F3-4C57-B294-988949E0A8FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF3DA1F3-D6F3-4C57-B294-988949E0A8FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A824FD5-D7B2-4F42-A5BE-073E717FAD60}
+	EndGlobalSection
+EndGlobal
