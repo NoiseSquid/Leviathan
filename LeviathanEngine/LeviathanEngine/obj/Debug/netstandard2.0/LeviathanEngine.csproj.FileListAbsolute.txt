@@ -7,3 +7,6 @@ D:\Matt\Repositories\Leviathan\LeviathanEngine\LeviathanEngine\obj\Debug\netstan
 D:\Matt\Repositories\Leviathan\LeviathanEngine\LeviathanEngine\obj\Debug\netstandard2.0\LeviathanEngine.csproj.CoreCompileInputs.cache
 D:\Matt\Repositories\Leviathan\LeviathanEngine\LeviathanEngine\obj\Debug\netstandard2.0\LeviathanEngine.dll
 D:\Matt\Repositories\Leviathan\LeviathanEngine\LeviathanEngine\obj\Debug\netstandard2.0\LeviathanEngine.pdb
+D:\Matt\Repositories\Leviathan\Leviathan\Assets\Scripts\netstandard2.0\LeviathanEngine.deps.json
+D:\Matt\Repositories\Leviathan\Leviathan\Assets\Scripts\netstandard2.0\LeviathanEngine.dll
+D:\Matt\Repositories\Leviathan\Leviathan\Assets\Scripts\netstandard2.0\LeviathanEngine.pdb

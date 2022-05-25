@@ -4,11 +4,10 @@ using System.Text;
 
 namespace LeviathanEngine
 {
-    public struct HexTile
+    public struct HexProperties
     {
         public string terrain;
         public int population;
-        public string tradeGood;
         public bool isCapitol;
     }
 }

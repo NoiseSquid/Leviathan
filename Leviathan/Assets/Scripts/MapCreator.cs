@@ -18,8 +18,6 @@ public class MapCreator : MonoBehaviour
         h = 2 * HexSize;
         hSpace = w;
         vSpace = h * 0.75f;
-
-        CreateBlankMap(5, 5);
     }
 
     public void CreateBlankMap(int width, int height)
